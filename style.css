@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    font-family: 'Hachi Maru Pop', cursive;
+    font-size: 20px;
+    line-height: 30px;
+    
+}
+header {
+    background-color: #FFA726;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+header h1 {
+    color: white;
+    font-size: 100px
+}
+header img{
+    border-radius: 170px;
+    width: 300px;
+    border: 10px solid white;
+}
+
+h1,h2 {
+    font-family: 'Reggae One', cursive;
+}
+
+
+
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 30px 20px 30px 20px;
+}
+
+main img {
+    max-width: 100%;
+}
+
+h2 {
+    font-size: 35px;
+    color: #FFA726;
+    margin: 40px 0 10px;
+
+}
+a { 
+    color: #FFA726;
+}
+
+a:hover {
+    background-color:#FF0000;
+    color: white;
+}
+footer {
+    background-color: #FFA726;
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+footer p {
+    margin: 0;
+}
+footer a {
+    color: white;
+}
+
+footer a:hover {
+    opacity: 0.5;
+    background-color: transparent;
+}
+
+p.caption {
+    color:#F8C471;
+    font-style: italic;
+    margin-top: 0;
+}
